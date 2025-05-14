@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Abdallah Shaban
 
-<!--
-**abdallahshaban0/abdallahshaban0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Student** | 🔐 **Aspiring Network Security Engineer**  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/abdallahshaban1)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm a passionate cybersecurity student currently pursuing my Bachelor's in Computer Science at [E-JUST (Egypt-Japan University of Science and Technology)](https://www.ejust.edu.eg/).
+
+---
+
+## 🔧 Skills & Technologies
+
+- **Languages:** Python, C++, SQL  
+- **Networking & Security:** CCNA, CyberOps, Cisco Packet Tracer, Firewalls, Threat Analysis  
+- **Tools:** Wireshark, Nmap, Linux, Git, CI/CD  
+- **Knowledge Areas:** Cyber Threats, Cryptography, Social Engineering, Network Defense
+
+---
+
+## 📈 Let's Collaborate!
+
+I'm open to collaboration on:
+- Cybersecurity projects  
+- SOC analysis tools or dashboards  
+- Python-based automation for threat detection  
+- Vulnerability scanners or network monitoring tools
+
+Feel free to connect or drop me a message!
+
+---
+
+_“The best way to predict the future is to create it.” – Abraham Lincoln_
